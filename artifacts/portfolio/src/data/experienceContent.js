@@ -185,5 +185,5 @@ export const experienceContent = {
 
   ],
 
-  resumePdfUrl: "https://drive.google.com/file/d/1OjZucKudv7H_hteObaqQgENp3cs8JgH3/view?usp=sharing",
+  resumePdfUrl: "/Kishore_A.pdf",
 };
